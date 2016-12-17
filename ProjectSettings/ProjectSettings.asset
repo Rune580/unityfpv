@@ -514,14 +514,14 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 1
+    Collab: 0
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
     UNet: 1
     Unity_Ads: 0
-  cloudProjectId: bc62ca27-1ab9-4b0a-9b79-83b172499d26
-  projectName: FPV1
-  organizationId: runemastergaming
+  cloudProjectId: c5716d45-7fab-4948-ad6c-eaff1424b6b4
+  projectName: FPV1 (1)
+  organizationId: blasatingblade
   cloudEnabled: 0
